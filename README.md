@@ -1,1 +1,1 @@
-Summator Project & Tests
+SUMMATOR PROJECTS AND TESTS
