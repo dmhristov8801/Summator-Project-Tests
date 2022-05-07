@@ -44,21 +44,6 @@ namespace Summator
 
             Assert.That(result == 5);
         }
-        [Test]
-        public void Test_SumTwoPositiveNumbersFail()
-        {
-
-            int result = Summator.Sum(new int[] { 5, 7 });
-
-            Assert.That(result == 11);
-        }
-        [Test]
-        public void Test_SumOnePositiveNumbersFail()
-        {
-
-            int result = Summator.Sum(new int[] { 5 });
-
-            Assert.That(result == 11);
-        }
+       
     }
 }
